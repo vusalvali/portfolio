@@ -1,0 +1,58 @@
+.contact-info {
+  padding-top: 15px;
+  width: 1110px;
+}
+
+.inner-get-touch {
+  border: 4px solid #cc934e;
+  border-radius: 8px;
+  padding: 4px 0;
+  width: 530px;
+}
+/* .get-touch {
+  padding-right: 10px;
+  
+} */
+div h5:nth-child(n + 2) {
+  margin-top: 20px;
+}
+
+.map-div {
+  height: 400px;
+  width: 530px;
+}
+.map-div iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  border: 4px solid #cc934e;
+}
+
+@media screen and (max-width: 767px) {
+  .contact-info {
+    padding-top: 15px;
+    width: 380px;
+  }
+  
+  .map-div {
+    height: 400px;
+width: 380px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+  }
+  .get-touch {
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+  .inner-get-touch {
+    border: 4px solid #cc934e;
+    border-radius: 8px;
+    padding: 4px 0;
+    width: 340px;
+  }
+  .col .map-div {
+    margin-bottom: 150px;
+  }
+}
