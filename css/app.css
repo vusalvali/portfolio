@@ -72,23 +72,23 @@ img {
 .home-outside {
   position: absolute;
   right: 6%;
-  top: 41%;
+  top: 45%;
 }
 
 .about-outside {
   position: absolute;
   right: 6%;
-  top: 49%;
+  top: 53%;
 }
 .port-outside {
   position: absolute;
   right: 6%;
-  top: 57%;
+  top: 62%;
 }
 .contact-outside {
   position: absolute;
   right: 6%;
-  top: 65%;
+  top: 70%;
 }
 a img {
   margin-bottom: 15px;
@@ -110,22 +110,22 @@ li span {
 .home-outside-about {
   position: absolute;
   right: 7%;
-  top: 41%;
+  top: 45%;
 }
 .about-outside-about {
   position: absolute;
   right: 7%;
-  top: 49%;
+  top: 53%;
 }
 .port-outside-about {
   position: absolute;
   right: 7%;
-  top: 57%;
+  top: 62%;
 }
 .contact-outside-about {
   position: absolute;
   right: 7%;
-  top: 65%;
+  top: 72%;
 }
 .col-md-10 {
   padding-left: 120px;
@@ -196,9 +196,9 @@ p {
   }
 
   .col-md-2 {
-    position: static; 
-    padding: 0; 
-    height: auto; 
+    position: static;
+    padding: 0;
+    height: auto;
     display: block;
     margin-right: 0;
   }
